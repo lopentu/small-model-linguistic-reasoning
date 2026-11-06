@@ -1,0 +1,19 @@
+{
+  "source": "https://huggingface.co/richardlian/iolai-2026-4b-mist-oldv2",
+  "checked_on": "2026-10-02",
+  "git_blob_sha1": {
+    "script.py": "6e070b8e7ce1f1840b709c9194c6df4aa4aaed9b",
+    "v2/__init__.py": "f71a0a98d16ff8d334fbccd5f91e26c7fc890d5d",
+    "v2/backends.py": "f8675feaaa2e6c3450148f096a327599fd8a217f",
+    "v2/budget.py": "3d1fb05ce8fa77cbc9fb09f412c21bcd56d91e1a",
+    "v2/chat.py": "c9dcba0861670440ccfe6b232c32c54037358d0f",
+    "v2/config.py": "80e0623fab9b7c27bb3f3528eff4afb0e7c995d1",
+    "v2/pipeline.py": "06448a89771039733f0728c2ad2f19615d217518",
+    "v2/prompts.py": "ea967dbf939722165081e03f105b8f00a4155925",
+    "v2/script.py": "d88a62732ac8dc11d1899580fd6db1d38ddc15e3",
+    "v2/textproc.py": "1e3a0be99ca30774efd33f1d40609f5b67a5d8d3",
+    "v2/transcript.py": "dadfc286746310d0bf4afe35b0c64393d4783c3d",
+    "v2/validators.py": "f7b9b0de38517228bc9665b5af568daaa4e5dade"
+  },
+  "scope": "Upstream Python entry point and v2 modules were hash-matched before comment cleanup. Released files have the same executable AST, excluding docstrings; see provenance.json for source and release SHA-256."
+}

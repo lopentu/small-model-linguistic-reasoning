@@ -1,0 +1,506 @@
+{
+  "source_commit": "0ed939400c05441f67bd7988f68e8d2ca53cce85",
+  "files": {
+    "solver/deploy/v2/__init__.py": {
+      "origin": "solver/deploy/v2/__init__.py",
+      "source_sha256": "f507aef6b8f1b89f35d92b32374aa4a285703bea22bb355c6b5bae377a7264dc",
+      "release_sha256": "f507aef6b8f1b89f35d92b32374aa4a285703bea22bb355c6b5bae377a7264dc",
+      "changes": []
+    },
+    "solver/deploy/v2/assignment.py": {
+      "origin": "solver/deploy/v2/assignment.py",
+      "source_sha256": "2d9c85cc208f7a67d205400d53f7c1762ed1b726ade3819cd80fa3d8caf93cbf",
+      "release_sha256": "908198deb45f5bf20869b30b40c1b9036127c24a817b1958a44e2fc4f256f390",
+      "changes": [
+        "Comments and docstrings cleaned; executable AST unchanged after removing docstrings"
+      ]
+    },
+    "solver/deploy/v2/backends.py": {
+      "origin": "solver/deploy/v2/backends.py",
+      "source_sha256": "bebeb2e247ab7d03f68272254e7994b8b0daba983c36683eefca4e87c53c0713",
+      "release_sha256": "4d8709f2651369b0439180bd9d4982da29eb3cce232e04c8fdcbe1e7e5e60ba1",
+      "changes": [
+        "Comments and docstrings cleaned; executable AST unchanged after removing docstrings"
+      ]
+    },
+    "solver/deploy/v2/budget.py": {
+      "origin": "solver/deploy/v2/budget.py",
+      "source_sha256": "aadaf3e91ade9b3134d765cf7ce1a954aa7fc9554758664cb1200b34a9350cbf",
+      "release_sha256": "073e7720a6ab4bf2b3563363aefe0f88d896ee650cf06b35b1ad20b4b215a641",
+      "changes": [
+        "Comments and docstrings cleaned; executable AST unchanged after removing docstrings"
+      ]
+    },
+    "solver/deploy/v2/chat.py": {
+      "origin": "solver/deploy/v2/chat.py",
+      "source_sha256": "05cb67f879276f98d26b95738c6216af9db9e192303f5b62806f30073a6c1941",
+      "release_sha256": "05cb67f879276f98d26b95738c6216af9db9e192303f5b62806f30073a6c1941",
+      "changes": []
+    },
+    "solver/deploy/v2/confidence.py": {
+      "origin": "solver/deploy/v2/confidence.py",
+      "source_sha256": "dcf80ceea7c43c33ade6648d30c4e7cb5fb9631323599ac8b9c3149d9d282ff4",
+      "release_sha256": "d16ae8cfb7edee1af273b243b6f5aa17f2cc1dc6cedfe8556a97e9d4d7e7afaa",
+      "changes": [
+        "Comments and docstrings cleaned; executable AST unchanged after removing docstrings"
+      ]
+    },
+    "solver/deploy/v2/config.py": {
+      "origin": "solver/deploy/v2/config.py",
+      "source_sha256": "0d366b5ae827897b56aab524a1a3d2bc119a910f96e7d3dffcc7abefbb129b52",
+      "release_sha256": "aea7c2285cd59c847283e07f6822c4124cc628e020136f7a455ec5c0ebd90897",
+      "changes": [
+        "Comments and docstrings cleaned; executable AST unchanged after removing docstrings"
+      ]
+    },
+    "solver/deploy/v2/detlanes.py": {
+      "origin": "solver/deploy/v2/detlanes.py",
+      "source_sha256": "7dfb392700068f196085e1c781edefed037b2b1e330475c237802b172c5b8a3c",
+      "release_sha256": "7dfb392700068f196085e1c781edefed037b2b1e330475c237802b172c5b8a3c",
+      "changes": []
+    },
+    "solver/deploy/v2/ensemble.py": {
+      "origin": "solver/deploy/v2/ensemble.py",
+      "source_sha256": "ef9d81cdffda0017fb82b8250a6f0220f9df24a778250e609bc2abebe622a482",
+      "release_sha256": "89a482e866fa2c8c0744bea56e64647c942c2a9944fa1085ff1d990c2cffc01e",
+      "changes": [
+        "Comments and docstrings cleaned; executable AST unchanged after removing docstrings"
+      ]
+    },
+    "solver/deploy/v2/fb_solver.py": {
+      "origin": "solver/deploy/v2/fb_solver.py",
+      "source_sha256": "14983ba29bb62bbbb73b205c162e17d4ff3f4e773bc5726ebca076c00f38bc34",
+      "release_sha256": "c9205c253a3d8bb68edc911ecff941c0fb0b059438009be87e07b1be863d24f5",
+      "changes": [
+        "Comments and docstrings cleaned; executable AST unchanged after removing docstrings"
+      ]
+    },
+    "solver/deploy/v2/pipeline.py": {
+      "origin": "solver/deploy/v2/pipeline.py",
+      "source_sha256": "56161ab59aa88503fc69b6084005929be460c158c9fa6238d7b30794cfaf93cc",
+      "release_sha256": "d8330aad076ffae36e82ee35ab77874687a1de8f392976b5c1bad3cbf5ca8291",
+      "changes": [
+        "Comments and docstrings cleaned; executable AST unchanged after removing docstrings"
+      ]
+    },
+    "solver/deploy/v2/prompts.py": {
+      "origin": "solver/deploy/v2/prompts.py",
+      "source_sha256": "00c376e25caa6f4989dc405fc8eaae33487210ebc8800a7d8e8467f1af39b20a",
+      "release_sha256": "10fb1e2b08cac8b8114be25c7b7ab0e2585338cfe83f9f27fc52cfe532871228",
+      "changes": [
+        "Comments and docstrings cleaned; executable AST unchanged after removing docstrings"
+      ]
+    },
+    "solver/deploy/v2/script.py": {
+      "origin": "solver/deploy/v2/script.py",
+      "source_sha256": "2804093a98c1eabcf7c6c455ade5f2d1c27e8c3dc38e28e9fed60ae580fface2",
+      "release_sha256": "bcf847c5208c2c04bc353d496efc30654819547e6438e4d5c0895224b17440d1",
+      "changes": [
+        "Comments and docstrings cleaned; executable AST unchanged after removing docstrings"
+      ]
+    },
+    "solver/deploy/v2/textproc.py": {
+      "origin": "solver/deploy/v2/textproc.py",
+      "source_sha256": "767b856cac4ae3bb2c5154d1d17255ac6ec42147a383c00f713bcd48245df9f6",
+      "release_sha256": "1d4cf68a52d404d497488e3cf4cd38ebc4808f1d3034d8ec340ca9df714ba796",
+      "changes": [
+        "Comments and docstrings cleaned; executable AST unchanged after removing docstrings"
+      ]
+    },
+    "solver/deploy/v2/transcript.py": {
+      "origin": "solver/deploy/v2/transcript.py",
+      "source_sha256": "3a22b8e680b4b0bf6be69bfb58f84632e01201a8e72a3daf549c59fd2797e02b",
+      "release_sha256": "2a9a9a45dcc8529d89f6c49d3ed9f41aa3ba77037cfebd45ff5e93434db59bd6",
+      "changes": [
+        "Comments and docstrings cleaned; executable AST unchanged after removing docstrings"
+      ]
+    },
+    "solver/deploy/v2/validators.py": {
+      "origin": "solver/deploy/v2/validators.py",
+      "source_sha256": "945f8588606e5114e6a0cb9d67afad44f68a26fd49909a6e972df7cdbc5b96ad",
+      "release_sha256": "945f8588606e5114e6a0cb9d67afad44f68a26fd49909a6e972df7cdbc5b96ad",
+      "changes": []
+    },
+    "solver/v2/__init__.py": {
+      "origin": "solver/v2/__init__.py",
+      "source_sha256": "f507aef6b8f1b89f35d92b32374aa4a285703bea22bb355c6b5bae377a7264dc",
+      "release_sha256": "f507aef6b8f1b89f35d92b32374aa4a285703bea22bb355c6b5bae377a7264dc",
+      "changes": []
+    },
+    "solver/v2/backends.py": {
+      "origin": "solver/v2/backends.py",
+      "source_sha256": "f238848f5be08cc07647756aa73d70e2ec86f5f69287f649ed781b65898b21da",
+      "release_sha256": "c7ddb270aadaaa133711dfc06280f92a3ac2257e1828b93a7a31b36f0b497b59",
+      "changes": [
+        "Comments and docstrings cleaned; executable AST unchanged after removing docstrings"
+      ]
+    },
+    "solver/v2/budget.py": {
+      "origin": "solver/v2/budget.py",
+      "source_sha256": "fc6c345e7b6f1da07676a3b94bd6263abd874ef315a0975db17fc35fdff93693",
+      "release_sha256": "5f7586664f9aa048a16b9743710b1ffad85c6004d53eeaf5eaeeff69b70e3eff",
+      "changes": [
+        "Comments and docstrings cleaned; executable AST unchanged after removing docstrings"
+      ]
+    },
+    "solver/v2/chat.py": {
+      "origin": "solver/v2/chat.py",
+      "source_sha256": "05cb67f879276f98d26b95738c6216af9db9e192303f5b62806f30073a6c1941",
+      "release_sha256": "05cb67f879276f98d26b95738c6216af9db9e192303f5b62806f30073a6c1941",
+      "changes": []
+    },
+    "solver/v2/config.py": {
+      "origin": "solver/v2/config.py",
+      "source_sha256": "5eff0df36e329e3ebd521fd9515799d6557a8a6d941b37fee38f6612a267e718",
+      "release_sha256": "823508abb0533f943e58d4cdb1cd94f90b529d5b426a6d85810f90340de208ee",
+      "changes": [
+        "Comments and docstrings cleaned; executable AST unchanged after removing docstrings"
+      ]
+    },
+    "solver/v2/numbrute.py": {
+      "origin": "solver/v2/numbrute.py",
+      "source_sha256": "d19914b9ec3a0cf8061913e098a54bad0f44bc5dfa71e06482fdf67762ff090f",
+      "release_sha256": "4df0ea0cd8d445abb1a73e95be81d5957e3ec5279bd7b7c582c6e872d6d8eae3",
+      "changes": [
+        "Comments and docstrings cleaned; executable AST unchanged after removing docstrings"
+      ]
+    },
+    "solver/v2/pipeline.py": {
+      "origin": "solver/v2/pipeline.py",
+      "source_sha256": "a9209a79864e9391ce66406a622effebef1b396257213d573e0eec65b498aa06",
+      "release_sha256": "f90a509dbe6a23102a63c12c9775f97f5c2e880142fc2c9a94a9881f4dec343a",
+      "changes": [
+        "Comments and docstrings cleaned; executable AST unchanged after removing docstrings"
+      ]
+    },
+    "solver/v2/prompts.py": {
+      "origin": "solver/v2/prompts.py",
+      "source_sha256": "a805024287027cfcd905910dea8d0b19a2585138a7b6cad27953c571f2f3ad61",
+      "release_sha256": "e1924d9186ca564d589bad9030f42feb689582966ad2d357f76b111b82426186",
+      "changes": [
+        "Comments and docstrings cleaned; executable AST unchanged after removing docstrings"
+      ]
+    },
+    "solver/v2/retrieval.py": {
+      "origin": "solver/v2/retrieval.py",
+      "source_sha256": "6fb1f2f2cbecc4b736954ab90d704d510ddd40ada9e3e5aa8e73dfa56744b316",
+      "release_sha256": "6fb1f2f2cbecc4b736954ab90d704d510ddd40ada9e3e5aa8e73dfa56744b316",
+      "changes": []
+    },
+    "solver/v2/script.py": {
+      "origin": "solver/v2/script.py",
+      "source_sha256": "addd728e60ed22e8bcb413ec28c8f642a08cf8dbebfc39f9dfcff0a6be8f12e5",
+      "release_sha256": "03c901b4fce0c28156a735758296d35a93013837ddcf8a032a00239e5b7921b0",
+      "changes": [
+        "Comments and docstrings cleaned; executable AST unchanged after removing docstrings"
+      ]
+    },
+    "solver/v2/textproc.py": {
+      "origin": "solver/v2/textproc.py",
+      "source_sha256": "6b5afb27c790ccd5ace7f5595c0aab5758aa90585223dfcdb6ff626cc4e2b677",
+      "release_sha256": "c9903b201051d60e0d6be3e8e08252ca9c473ed9191d2650c89ad2fbed0a5ac4",
+      "changes": [
+        "Comments and docstrings cleaned; executable AST unchanged after removing docstrings"
+      ]
+    },
+    "solver/v2/transcript.py": {
+      "origin": "solver/v2/transcript.py",
+      "source_sha256": "dc55617e16ef481785c77646db5b25ece34d201d612d36294a0a2a2ac8e85d13",
+      "release_sha256": "dc55617e16ef481785c77646db5b25ece34d201d612d36294a0a2a2ac8e85d13",
+      "changes": []
+    },
+    "solver/v2/validators.py": {
+      "origin": "solver/v2/validators.py",
+      "source_sha256": "56ba487a2597772d596e7246faa8ccd4518070006b3bd45f480a825856056121",
+      "release_sha256": "56ba487a2597772d596e7246faa8ccd4518070006b3bd45f480a825856056121",
+      "changes": []
+    },
+    "final_4b/script.py": {
+      "origin": "final-4b-submission/script.py",
+      "source_sha256": "967a5378fe97d41e9951a669d106a44d75ac49eb8e2e0433e10530e9677364b9",
+      "release_sha256": "95f8452748feb224bfff2c19410ba5647898b4280a06b19bf77e594bbfae1e67",
+      "changes": [
+        "Comments and docstrings cleaned; executable AST unchanged after removing docstrings"
+      ]
+    },
+    "final_4b/v2/__init__.py": {
+      "origin": "final-4b-submission/v2/__init__.py",
+      "source_sha256": "f507aef6b8f1b89f35d92b32374aa4a285703bea22bb355c6b5bae377a7264dc",
+      "release_sha256": "f507aef6b8f1b89f35d92b32374aa4a285703bea22bb355c6b5bae377a7264dc",
+      "changes": []
+    },
+    "final_4b/v2/backends.py": {
+      "origin": "final-4b-submission/v2/backends.py",
+      "source_sha256": "ed6aeaec636d9efa55bcd6fb73f580f8f2b3d95fd4be5b3fe2638e2f9ac009c2",
+      "release_sha256": "69c140405e0ac42be5fc783cb441f8eca4f8608dc2a4fcab0f571cab2035570c",
+      "changes": [
+        "Comments and docstrings cleaned; executable AST unchanged after removing docstrings"
+      ]
+    },
+    "final_4b/v2/budget.py": {
+      "origin": "final-4b-submission/v2/budget.py",
+      "source_sha256": "8d5dc62c5b41a038851872b896c56eb0c4b6646384f7deb004f5a99635a8c1b1",
+      "release_sha256": "122af5f51a713cee1f2258d1e3f6dfb7142505181929f7bfcd859bc83f2d65be",
+      "changes": [
+        "Comments and docstrings cleaned; executable AST unchanged after removing docstrings"
+      ]
+    },
+    "final_4b/v2/chat.py": {
+      "origin": "final-4b-submission/v2/chat.py",
+      "source_sha256": "05cb67f879276f98d26b95738c6216af9db9e192303f5b62806f30073a6c1941",
+      "release_sha256": "05cb67f879276f98d26b95738c6216af9db9e192303f5b62806f30073a6c1941",
+      "changes": []
+    },
+    "final_4b/v2/config.py": {
+      "origin": "final-4b-submission/v2/config.py",
+      "source_sha256": "5eff0df36e329e3ebd521fd9515799d6557a8a6d941b37fee38f6612a267e718",
+      "release_sha256": "823508abb0533f943e58d4cdb1cd94f90b529d5b426a6d85810f90340de208ee",
+      "changes": [
+        "Comments and docstrings cleaned; executable AST unchanged after removing docstrings"
+      ]
+    },
+    "final_4b/v2/pipeline.py": {
+      "origin": "final-4b-submission/v2/pipeline.py",
+      "source_sha256": "c88c97bf8e0391f9e3c1d880cd47871b0620918ef0b813bba58244d29dd1a4af",
+      "release_sha256": "703075025ee04f38fee28bb33374d61d65b2279f79211fb47d1158bd104be355",
+      "changes": [
+        "Comments and docstrings cleaned; executable AST unchanged after removing docstrings"
+      ]
+    },
+    "final_4b/v2/prompts.py": {
+      "origin": "final-4b-submission/v2/prompts.py",
+      "source_sha256": "00c376e25caa6f4989dc405fc8eaae33487210ebc8800a7d8e8467f1af39b20a",
+      "release_sha256": "10fb1e2b08cac8b8114be25c7b7ab0e2585338cfe83f9f27fc52cfe532871228",
+      "changes": [
+        "Comments and docstrings cleaned; executable AST unchanged after removing docstrings"
+      ]
+    },
+    "final_4b/v2/script.py": {
+      "origin": "final-4b-submission/v2/script.py",
+      "source_sha256": "7e8fbc73360e1c9f0b5bae5ebed27760a665e79f86cc5584ba27270f11d752cf",
+      "release_sha256": "7e8fbc73360e1c9f0b5bae5ebed27760a665e79f86cc5584ba27270f11d752cf",
+      "changes": []
+    },
+    "final_4b/v2/textproc.py": {
+      "origin": "final-4b-submission/v2/textproc.py",
+      "source_sha256": "aba47fb75867df2791222d903bdd0ee2d48d308919e75bbf53519bd9f435f3e2",
+      "release_sha256": "b65641d4c328126a0d85b983db352bdedd746b7e3fde0606f6d42dc97eafb232",
+      "changes": [
+        "Comments and docstrings cleaned; executable AST unchanged after removing docstrings"
+      ]
+    },
+    "final_4b/v2/transcript.py": {
+      "origin": "final-4b-submission/v2/transcript.py",
+      "source_sha256": "dc55617e16ef481785c77646db5b25ece34d201d612d36294a0a2a2ac8e85d13",
+      "release_sha256": "dc55617e16ef481785c77646db5b25ece34d201d612d36294a0a2a2ac8e85d13",
+      "changes": []
+    },
+    "final_4b/v2/validators.py": {
+      "origin": "final-4b-submission/v2/validators.py",
+      "source_sha256": "945f8588606e5114e6a0cb9d67afad44f68a26fd49909a6e972df7cdbc5b96ad",
+      "release_sha256": "945f8588606e5114e6a0cb9d67afad44f68a26fd49909a6e972df7cdbc5b96ad",
+      "changes": []
+    },
+    "dev/score_local.py": {
+      "origin": "dev/score_local.py",
+      "source_sha256": "4268f7bc4c79c93f486431f706056e8259c9d2c770ea931d771a89028a29c441",
+      "release_sha256": "5b0e087f11765ec1d5ce29cfebb4c268258bfcaf7d7a9ca9c5f1ad47971b3a17",
+      "changes": [
+        "Warn about unmapped grouping IDs and label row-fallback intervals accurately",
+        "Replace causal REAL/noise labels with interval descriptions",
+        "Comments and docstrings cleaned"
+      ]
+    },
+    "dev/leaderboard_delta.py": {
+      "origin": "dev/leaderboard_delta.py",
+      "source_sha256": "4b95c6975633a90271bb91125cbc2b5a907492d4bd0fdc251ce8e13ca3ecc020",
+      "release_sha256": "f96479940846dbd5334ab59cd8cb0886d8b2d2c029df795d2a75437323d7660f",
+      "changes": [
+        "Remove unconditional interpretations and use descriptive labels",
+        "Skip selection and team subsections when required rows are absent",
+        "Comments and docstrings cleaned"
+      ]
+    },
+    "dev/local/e47_ncurve.py": {
+      "origin": "dev/local/e47_ncurve.py",
+      "source_sha256": "4c9486d76d2b3095f1ee934f670918f352f4b514a352d35f278cc2eaecc1ec85",
+      "release_sha256": "9b7010e39e68b03401d41f1e5bd91b8e538bd1e4bb6b585bb312b7437de67cb5",
+      "changes": [
+        "Preserve sample permutations and replay finalize events by slot before voting",
+        "Disable assignment and deterministic answer lanes for the exported plain-voting workflow",
+        "Remove fixed conclusions and label first-selection intervals separately from across-selection means",
+        "Warn when bootstrap grouping IDs are missing",
+        "Comments and docstrings cleaned"
+      ]
+    },
+    "dev/sft/train.py": {
+      "origin": "dev/sft/train.py",
+      "source_sha256": "e00d8ebedbd9272cabb1912acfcd979f9eb5fc07d109d2b8ea368726197bf142",
+      "release_sha256": "0a5eb892db7d366ab4b798971320fe94af262715a7a1b7defb8ce72a65c1a487",
+      "changes": [
+        "Support local TRAIN_PATH and remove author-specific Hub defaults",
+        "Require a private destination for explicitly enabled checkpoint uploads",
+        "Disable external telemetry unless REPORT_TO is set",
+        "Log the actual training input path",
+        "Comments and docstrings cleaned"
+      ]
+    },
+    "dev/sft/build_dataset.py": {
+      "origin": "dev/sft/build_dataset.py",
+      "source_sha256": "7c3e97ef2fae61916d3b8909067e4f6f9afc84c8dbcac4659340dd04b7eb87a2",
+      "release_sha256": "74ba64d6feb0e5c6620fb702564b72cb2ae1f2994ea16a40319d5291ac2671cd",
+      "changes": [
+        "Read the review corpus from REVIEW_CORPUS or a local relative path",
+        "Remove internal project directives from generated metadata",
+        "Comments and docstrings cleaned"
+      ]
+    },
+    "dev/sft/build_e36_mist.py": {
+      "origin": "dev/sft/build_e36_mist.py",
+      "source_sha256": "9150b662fc12e2607d9b1b7a52ed0ce2aebc86a8995174d0004d05d066671f9a",
+      "release_sha256": "19f78311543f433f2335cc7cbab42e937467619db0a193b70e6027647f2e6182",
+      "changes": [
+        "Require a local IOL_TRAIN_PATH and an explicit MIST_REVISION",
+        "Require explicit DATASET_REPO and private visibility for uploads",
+        "Comments and docstrings cleaned"
+      ]
+    },
+    "dev/sft/build_e39_linguini.py": {
+      "origin": "dev/sft/build_e39_linguini.py",
+      "source_sha256": "7a4aea9cc064c506c24806129cbfe2bbd60e32752b03c655a51690ad3898da9e",
+      "release_sha256": "b020c1007a49fa99da83c4e426cbc912a5ed7a464c76d111287b279f3e500ea9",
+      "changes": [
+        "Require local IOL_TRAIN_PATH with a clear error when absent",
+        "Require explicit DATASET_REPO and private visibility for uploads",
+        "Remove fixed input counts from descriptions",
+        "Comments and docstrings cleaned"
+      ]
+    },
+    "dev/sft/build_e40_all.py": {
+      "origin": "dev/sft/build_e40_all.py",
+      "source_sha256": "289fb8f0e7f63f26f1758a1fc7fd94e4299f811f2b195d400ea00cf804c06b00",
+      "release_sha256": "3b57014eb561dc6ac1384024f56ce17c8f6cd0924a4482fced074ac5acf873fb",
+      "changes": [
+        "Require local IOL_TRAIN_PATH with a clear error when absent",
+        "Require explicit DATASET_REPO and private visibility for uploads",
+        "Remove fixed source counts from output",
+        "Comments and docstrings cleaned"
+      ]
+    },
+    "dev/sft/merge_verified.py": {
+      "origin": "dev/sft/merge_verified.py",
+      "source_sha256": "d42d8b92f86c7c10e586f75d3ac998d125978483227a530e13195b8e3defa327",
+      "release_sha256": "747dbd67388bd8330b4e4d3924191e2efc953eb531811dbc0d55c71590019513",
+      "changes": [
+        "Disable uploads unless UPLOAD=1 and require an explicit private destination",
+        "Fail if the pinned llama.cpp tag cannot be obtained; no fallback to HEAD",
+        "Comments and docstrings cleaned"
+      ]
+    },
+    "dev/gramquery_embed.py": {
+      "origin": "dev/gramquery_embed.py",
+      "source_sha256": "e1b63faea386f3d7d77e8bb418a184783d53f1b19ed992f0e4c3c3cbdbd21edd",
+      "release_sha256": "1f0ace18ef607fa7f20b2c82d82ae8da480c2d4b4758dce9b2626e9256c9be17",
+      "changes": [
+        "Comments and docstrings cleaned; executable AST unchanged after removing docstrings"
+      ]
+    },
+    "dev/gramquery_extract.py": {
+      "origin": "dev/gramquery_extract.py",
+      "source_sha256": "50ced32c15a90283c7c74481045a909d7463bd51ff9fd6c3ed3e64d897ca2084",
+      "release_sha256": "9b489276f3a8b608e691fc6e3cc119af9997c8c82b83c0dbba96c388a6f0a85d",
+      "changes": [
+        "Comments and docstrings cleaned; executable AST unchanged after removing docstrings"
+      ]
+    },
+    "dev/mock-eval/split.json": {
+      "origin": "dev/mock-eval/split.json",
+      "source_sha256": "1faf24e8064c0829048df5cdd11ad1349f9c1b141d3ed9233b5e8a8bf30a2d15",
+      "release_sha256": "1faf24e8064c0829048df5cdd11ad1349f9c1b141d3ed9233b5e8a8bf30a2d15",
+      "changes": []
+    },
+    "dev/test_ensemble.py": {
+      "origin": "dev/test_ensemble.py",
+      "source_sha256": "11a8fd4f58c6a11b85698e87d821040a1830a06d3c9bfde652b407ca2f966b8e",
+      "release_sha256": "750fc901e61f30b9024285ac240f0677ca0282e1b4a6024f71042e714d305d65",
+      "changes": [
+        "Comments and docstrings cleaned; executable AST unchanged after removing docstrings"
+      ]
+    },
+    "dev/test_confidence.py": {
+      "origin": "dev/test_confidence.py",
+      "source_sha256": "87b7d40fe3d89c6f7571a7a2ad2ace3e16ba752c95d917153647f2a59f3ac193",
+      "release_sha256": "6b6e23ecd005ba9c3ec59c30bde37b5107f15bcdaa24be1e9a5011aa208aade7",
+      "changes": [
+        "Comments and docstrings cleaned; executable AST unchanged after removing docstrings"
+      ]
+    },
+    "dev/test_delivery_deadline.py": {
+      "origin": "dev/test_delivery_deadline.py",
+      "source_sha256": "1ef5e111e862a20f07d1b38e7aaae5dc2632b564b37137de588a25cae3f4211c",
+      "release_sha256": "f45d212e09bca7708f479d8ebdbcd015a77800efe9d3811ac3529880a4ee9b61",
+      "changes": [
+        "Comments and docstrings cleaned; executable AST unchanged after removing docstrings"
+      ]
+    },
+    "dev/test_assignment.py": {
+      "origin": "dev/test_assignment.py",
+      "source_sha256": "30f3ee733234c25a185a7004fd1172f06e9067a14debd9ef55fb948529ee911b",
+      "release_sha256": "a2ba18a1d4bb816a41dc6e3b031a338556050c987782a430d0afcdd6735dd852",
+      "changes": [
+        "Comments and docstrings cleaned; executable AST unchanged after removing docstrings"
+      ]
+    },
+    "dev/test_markerless_parse.py": {
+      "origin": "dev/test_markerless_parse.py",
+      "source_sha256": "3029a03469c56a9082425d74a08442e012b497203f307e33a5943e1b028344cc",
+      "release_sha256": "0809fcf7580832c1cb6184d5be65fe947e21d4a8e8b5f93d1556cf8514630295",
+      "changes": [
+        "Comments and docstrings cleaned; executable AST unchanged after removing docstrings",
+        "Test fixture strings replaced with synthetic text so no competition problem text is distributed"
+      ]
+    },
+    "dev/test_n_items.py": {
+      "origin": "dev/test_n_items.py",
+      "source_sha256": "3959815dd61b12d9c4a97721af30cd4541f7e1ff2e9bb3b9053aeb16bd2f11b1",
+      "release_sha256": "bd6f0e7195582ab992e3645edcb60af04e222accb181cc578d13f0d71e94c191",
+      "changes": [
+        "Comments and docstrings cleaned; executable AST unchanged after removing docstrings",
+        "Test fixture strings replaced with synthetic text so no competition problem text is distributed"
+      ]
+    },
+    "dev/test_numbrute.py": {
+      "origin": "dev/test_numbrute.py",
+      "source_sha256": "50cace92f838f51ea1e2f0dd202d50de052871285c8ae2cfef3e102a6d1a25e4",
+      "release_sha256": "50cace92f838f51ea1e2f0dd202d50de052871285c8ae2cfef3e102a6d1a25e4",
+      "changes": []
+    },
+    "dev/test_retrieval.py": {
+      "origin": "dev/test_retrieval.py",
+      "source_sha256": "6d69a78b1c7ecc6073d502cc77239e62719b67974210d552b002af96a968ea46",
+      "release_sha256": "6d69a78b1c7ecc6073d502cc77239e62719b67974210d552b002af96a968ea46",
+      "changes": []
+    },
+    "dev/iolbatch/iolbatch.cpp": {
+      "origin": "dev/iolbatch/iolbatch.cpp",
+      "source_sha256": "b04f0163ea08b038255219e60428001c64c858282bdac73a6ab125ce72188082",
+      "release_sha256": "53bb8930fa871946b66edf0bb0b188ff2e112c60d2c2b704240d8712000354bf",
+      "changes": [
+        "Remove internal development comments; retain upstream license separately",
+        "Comments and docstrings cleaned"
+      ]
+    },
+    "dev/iolbatch/CMakeLists.txt": {
+      "origin": "dev/iolbatch/CMakeLists.txt",
+      "source_sha256": "9605d228bf6e93fb79c336e232fd53e8b88c80e11b263ac93c466c4c83548540",
+      "release_sha256": "9605d228bf6e93fb79c336e232fd53e8b88c80e11b263ac93c466c4c83548540",
+      "changes": []
+    },
+    "dev/iolbatch/LICENSE": {
+      "origin": "llama.cpp/LICENSE at 22b69b6e92e831442fdd287901816ce3aa8a2b43 (b9964)",
+      "source_sha256": "94f29bbed6a22c35b992c5c6ebf0e7c92f13b836b90f36f461c9cf2f0f1d010d",
+      "release_sha256": "94f29bbed6a22c35b992c5c6ebf0e7c92f13b836b90f36f461c9cf2f0f1d010d",
+      "changes": []
+    }
+  }
+}
